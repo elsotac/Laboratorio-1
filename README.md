@@ -4,3 +4,4 @@
 
 - Laboratorio 2: Primeros pasos
 
+- Laboratorio 11: MLOps 
