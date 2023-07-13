@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/232936285681970404/f4e39e868c97494dbf29127441f07aea/artifacts
+end_time: 1689236580007
+entry_point_name: ''
+experiment_id: '232936285681970404'
+lifecycle_stage: active
+run_id: f4e39e868c97494dbf29127441f07aea
+run_name: SVR()
+run_uuid: f4e39e868c97494dbf29127441f07aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689236563839
+status: 3
+tags: []
+user_id: jcuev

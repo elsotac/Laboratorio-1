@@ -1,0 +1,23 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/717254925417771152/c9bdb79d0371421a8251128705c4e29d/artifacts
+deleted_time: 1689236901124
+end_time: 1689236405445
+entry_point_name: ''
+experiment_id: '717254925417771152'
+lifecycle_stage: deleted
+run_id: c9bdb79d0371421a8251128705c4e29d
+run_name: "XGBRegressor(base_score=None, booster=None, callbacks=None,\n             colsample_bylevel=None,
+  colsample_bynode=None,\n             colsample_bytree=None, early_stopping_rounds=None,\n
+  \            enable_categorical=False, eval_metric=None, feature_types=None,\n             gamma=None,
+  gpu_id=None, grow_policy=None, importance_type=None,\n             interaction_constraints=None,
+  learning_rate=None, max_bin=None,\n             max_cat_threshold=None, max_cat_to_onehot=None,\n
+  \            max_delta_step=None, max_depth=None, max_leaves=None,\n             min_child_weight=None,
+  missing=nan, monotone_constraints=None,\n             n_estimators=100, n_jobs=None,
+  num_parallel_tree=None,\n             predictor=None, random_state=None, ...)"
+run_uuid: c9bdb79d0371421a8251128705c4e29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689236398290
+status: 3
+tags: []
+user_id: jcuev

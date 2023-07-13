@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/659821753213167022/6d09435be5824ba288021c8a13a5dc10/artifacts
+deleted_time: 1689236908302
+end_time: 1689234178024
+entry_point_name: ''
+experiment_id: '659821753213167022'
+lifecycle_stage: deleted
+run_id: 6d09435be5824ba288021c8a13a5dc10
+run_name: LGBMRegressor()
+run_uuid: 6d09435be5824ba288021c8a13a5dc10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689234170261
+status: 3
+tags: []
+user_id: jcuev

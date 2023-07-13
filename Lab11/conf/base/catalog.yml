@@ -1,0 +1,57 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+# preprocesamiento de datos
+companies:
+  type: pandas.ParquetDataSet
+  filepath: ./data/01_raw/companies.parquet
+
+reviews:
+  type: pandas.ParquetDataSet
+  filepath: ./data/01_raw/reviews.parquet
+
+shuttles:
+  type: pandas.ParquetDataSet
+  filepath: ./data/01_raw/shuttles.parquet
+
+companies_preprocessed:
+  type: pandas.ParquetDataSet
+  filepath: ./data/02_intermediate/companies.parquet
+
+shuttles_preprocessed:
+  type: pandas.ParquetDataSet
+  filepath: ./data/02_intermediate/shuttles.parquet
+
+model_input:
+  type: pandas.ParquetDataSet
+  filepath: ./data/03_primary/model_input.parquet
+
+X_train:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/X_train.parquet
+
+X_valid:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/X_valid.parquet
+
+X_test:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/X_test.parquet
+
+y_train:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/y_train.parquet
+
+y_valid:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/y_valid.parquet
+
+y_test:
+  type: pandas.ParquetDataSet
+  filepath: ./data/05_model_input/y_test.parquet
+
+model:
+  type: pickle.PickleDataSet
+  filepath: ./data/06_models/model.pkl

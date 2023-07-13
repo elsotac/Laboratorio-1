@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/717254925417771152/29c93dd077a44c5583dfb7d785e21f33/artifacts
+deleted_time: 1689236901124
+end_time: 1689236382090
+entry_point_name: ''
+experiment_id: '717254925417771152'
+lifecycle_stage: deleted
+run_id: 29c93dd077a44c5583dfb7d785e21f33
+run_name: RandomForestRegressor()
+run_uuid: 29c93dd077a44c5583dfb7d785e21f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689236374729
+status: 3
+tags: []
+user_id: jcuev

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/659821753213167022/16b197eda8344226bb198574dafc5d27/artifacts
+deleted_time: 1689236908302
+end_time: 1689234162806
+entry_point_name: ''
+experiment_id: '659821753213167022'
+lifecycle_stage: deleted
+run_id: 16b197eda8344226bb198574dafc5d27
+run_name: SVR()
+run_uuid: 16b197eda8344226bb198574dafc5d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689234146168
+status: 3
+tags: []
+user_id: jcuev

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jcuev.SOTAC-NOTEBOOK/Desktop/Trabajo/labb11/mlruns/232936285681970404/1d9310061c45430ebb449cf2d5aeed99/artifacts
+end_time: 1689236556854
+entry_point_name: ''
+experiment_id: '232936285681970404'
+lifecycle_stage: active
+run_id: 1d9310061c45430ebb449cf2d5aeed99
+run_name: LinearRegression()
+run_uuid: 1d9310061c45430ebb449cf2d5aeed99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689236549360
+status: 3
+tags: []
+user_id: jcuev
